@@ -28,7 +28,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/GreatStackDev/seo-rank-tracker.git
+    git clone https://github.com/venkateshP-12/seo-rank-tracker.git
     ```
 2. Navigate to the project directory:
     ```bash
